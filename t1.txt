@@ -1,2 +1,10 @@
 gbuyidshu9i2y8775ohd8xz9y821
+pwd
+mkdir
+cat
+touch
+>
+cat >
+cat >>
+
 
